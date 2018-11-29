@@ -16,5 +16,6 @@
 ## 兼职、远程开发工作
 我是一名职业软件工程师，擅长 Python, Go, JavaScript 开发。专注于后端，同时胜任前端开发。如果您有相关工作，请联系我。
 
-微信
+![GitHub Logo](webwxgetmsgimg.jpg)  
+微信  
 邮箱：wangxuanzhealbert@gmail.com
