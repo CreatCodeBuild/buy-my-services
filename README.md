@@ -12,7 +12,7 @@
 ### 教学内容
 1. 语言：Python，JavaScript，Go，SQL
 2. 开发：后端开发、数据科学、前端开发
-3. 面试：模拟面试、简历修订
+3. 面试：面试训练、模拟面试、简历修订
 4. 计算机科学基础：数据结构、算法
 
 ![GitHub Logo](webwxgetmsgimg.jpg)  
