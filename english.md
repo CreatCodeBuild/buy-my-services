@@ -6,8 +6,8 @@ __I teach the following subjects:__
 - 2. Go
 - 3. JavaScript/NodeJS/TypeScript  
 2. Software Engineering  
-- 1. Backend Development (+ SQL)
-- 2. Frontend Development (+ HTML, CSS, JS)
+- 1. Backend Development (GraphQL, SQL, Docke, Microservices)
+- 2. Frontend Development (HTML, CSS, JS)
 3. Data Science & AI  
 - 1. Machine Learning / Deep Learning
 - 2. Data Visualization
