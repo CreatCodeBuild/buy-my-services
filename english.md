@@ -19,3 +19,6 @@ __I teach the following subjects:__
 - 4. Mock Interview
 
 Please contact me at wangxuanzhealbert@gmail.com
+
+![GitHub Logo](webwxgetmsgimg.jpg)  
+WeChat
